@@ -1,0 +1,54 @@
+.text-center{
+    text-align: center;
+}
+
+
+body{
+    font-family: cursive;
+}
+
+/* .mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 30vw;
+} */
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: cursive;
+    width: 66px;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.row input{
+    margin: 0px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 23px;
+    width: 240px;
+}
+
+.zeroBtn{
+    width: 140px;
+}
